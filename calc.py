@@ -1,7 +1,7 @@
 #Basic Calculator
 #Created by Unjustified - Jan 2016
 #
-#Please feel free to play around and learn from the code. 
+#Please feel free to play around and learn from the code
 
 def add(num1, num2):
 	return num1 + num2
